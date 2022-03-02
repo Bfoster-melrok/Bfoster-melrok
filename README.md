@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="69d879af-10a3-4256-88de-48dda7288260" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 **Bfoster-melrok/Bfoster-melrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
