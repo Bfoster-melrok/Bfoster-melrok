@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="69d879af-10a3-4256-88de-48dda7288260" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">](https://www.credly.com/badges/69d879af-10a3-4256-88de-48dda7288260/public_url)
 
 <!--
 **Bfoster-melrok/Bfoster-melrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
